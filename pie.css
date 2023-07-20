@@ -1,0 +1,25 @@
+/* style.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Optional: Add styles for the chart containers */
+.chart-container {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Optional: Add styles for the individual charts if needed */
+/* .chart-container .plotly-graph-div {
+    /* Add your custom styles here */
